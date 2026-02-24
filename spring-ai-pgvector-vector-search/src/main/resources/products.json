@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "product_name": "Smartphone",
+    "description": "Latest model smartphone with advanced camera features and a powerful processor.",
+    "brand": "Apple",
+    "price": 1000.00,
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "product_name": "Smartphone",
+    "description": "Flagship smartphone with fast charging and a high refresh rate display.",
+    "brand": "Samsung",
+    "price": 187.00,
+    "country": "UK"
+  },
+  {
+    "id": 3,
+    "product_name": "Smartphone",
+    "description": "5G-enabled smartphone with a large screen and high-resolution camera.",
+    "brand": "OnePlus",
+    "price": 670.00,
+    "country": "Sudan"
+  },
+  {
+    "id": 4,
+    "product_name": "Apple",
+    "description": "Lightweight laptop with a 15-inch display, fast performance, and extended battery.",
+    "brand": "Apple",
+    "price": 800.00,
+    "country": "UAE"
+  },
+  {
+    "id": 5,
+    "product_name": "Tablet",
+    "description": "Professional tablet with stylus support and stunning Retina display.",
+    "brand": "Apple",
+    "price": 670.00,
+    "country": "USA"
+  },
+  {
+    "id": 6,
+    "product_name": "Smartwatch",
+    "description": "Advanced fitness tracking smartwatch with ECG monitoring and GPS.",
+    "brand": "Garmin",
+    "price": 670.00,
+    "country": "Germany"
+  },
+  {
+    "id": 7,
+    "product_name": "Laptop",
+    "description": "Premium ultrabook with touchscreen and dedicated graphics card.",
+    "brand": "HP",
+    "price": 500,
+    "country": "USA"
+  },
+  {
+    "id": 8,
+    "product_name": "Headphones",
+    "description": "Noise-cancelling wireless headphones with premium audio quality.",
+    "brand": "Sony",
+    "price": 660.00,
+    "country": "USA"
+  },
+  {
+    "id": 9,
+    "product_name": "Gaming Console",
+    "description": "Next-gen gaming console with 4K graphics and ray tracing support.",
+    "brand": "Microsoft",
+    "price": 950.00,
+    "country": "UK"
+  },
+  {
+    "id": 10,
+    "product_name": "Smart TV",
+    "description": "65-inch 4K OLED TV with smart features and gaming mode.",
+    "brand": "LG",
+    "price": 770.00,
+    "country": "UAE"
+  }
+]

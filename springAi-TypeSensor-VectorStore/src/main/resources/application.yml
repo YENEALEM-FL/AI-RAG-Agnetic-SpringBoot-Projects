@@ -1,0 +1,11 @@
+spring:
+  ai:
+    vectorstore:
+      typesense:
+        collectionName: "vector_store"
+        embeddingDimension: 1536
+        client:
+          protocol: http
+          host: localhost
+          port: 8108
+          apiKey: xyz

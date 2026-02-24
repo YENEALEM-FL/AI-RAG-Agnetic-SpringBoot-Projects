@@ -1,0 +1,711 @@
+///////////////////////////////////////// keywordMetaData ////////////////////////////////////////////////////
+
+charset: UTF-8
+excerpt_keywords: Bug Whisperer, programming, problem-solving, mentorship, patience
+source: input.txt
+
+Leo was known as the “Bug Whisperer” in his team.
+Whenever code misbehaved, everyone called him.
+But Leo wasn’t just good at programming—he listened first, thought deeply, then typed quietly like he was talking politely to the machine.
+One day, a system crashed right before launch.
+Panic filled the room.
+While others frantically clicked and rebooted, Leo calmly read logs, traced the issue, and fixed a tiny missing semicolon that caused chaos.
+Cheers erupted. He smiled shyly and said,
+“Good code is like good magic—quiet and precise.”
+From that day, Leo became the mentor who taught others patience, clarity, and kindness in code.
+
+///////////////////////////////////////// summeryMetaData ////////////////////////////////////////////////////
+
+charset: UTF-8
+source: input.txt
+section_summary: The section highlights the following key topics and entities:
+
+1. **Leo**: Central character known as the "Bug Whisperer" for his exceptional problem-solving skills in programming.
+2. **Team Dynamics**: Leo's role in a team where he is relied upon during code issues or system crashes.
+3. **Problem-Solving Approach**: Emphasis on Leo's calm demeanor, methodical thinking, and patient approach to debugging rather than rushing to fix errors.
+4. **Incident**: A system crash before a launch that creates panic, showcasing Leo's ability to stay composed under pressure.
+5. **Resolution**: Leo's discovery of a small missing semicolon that caused the system failure, highlighting the importance of attention to detail.
+6. **Mentorship**: Leo evolves into a mentor, teaching others valuable lessons about patience, clarity, and kindness in coding.
+7. **Philosophy of Coding**: Leo's quote comparing good code to good magic, emphasizing the qualities of being quiet and precise.
+
+Overall, the section portrays themes of problem-solving, mentorship, and the philosophy behind writing good code.
+
+Leo was known as the “Bug Whisperer” in his team.
+Whenever code misbehaved, everyone called him.
+But Leo wasn’t just good at programming—he listened first, thought deeply, then typed quietly like he was talking politely to the machine.
+One day, a system crashed right before launch.
+Panic filled the room.
+While others frantically clicked and rebooted, Leo calmly read logs, traced the issue, and fixed a tiny missing semicolon that caused chaos.
+Cheers erupted. He smiled shyly and said,
+“Good code is like good magic—quiet and precise.”
+From that day, Leo became the mentor who taught others patience, clarity, and kindness in code.charset: UTF-8
+source: input.txt
+section_summary: The section revolves around Leo, nicknamed the "Bug Whisperer," who is a skilled programmer known for his calm and methodical approach to problem-solving. Key topics include:
+
+1. **Problem-Solving Skills**: Leo's ability to diagnose and fix code issues efficiently, particularly in high-pressure situations.
+2. **Calmness Under Pressure**: Unlike his frantic teammates, Leo remains composed, demonstrating the importance of patience and clarity in programming.
+3. **Mentorship**: After successfully resolving a critical system crash, Leo becomes a mentor, teaching others the values of patience, clarity, and kindness in coding.
+4. **Philosophy of Coding**: Leo likens good code to magic, emphasizing the importance of precision and quietness in programming.
+
+
+Entities include:
+- Leo (the protagonist)
+- His team (colleagues)
+- The concept of coding and debugging
+- The metaphor of magic in relation to coding.
+
+Leo was known as the “Bug Whisperer” in his team.
+Whenever code misbehaved, everyone called him.
+But Leo wasn’t just good at programming—he listened first, thought deeply, then typed quietly like he was talking politely to the machine.
+One day, a system crashed right before launch.
+Panic filled the room.
+While others frantically clicked and rebooted, Leo calmly read logs, traced the issue, and fixed a tiny missing semicolon that caused chaos.
+Cheers erupted. He smiled shyly and said,
+“Good code is like good magic—quiet and precise.”
+From that day, Leo became the mentor who taught others patience, clarity, and kindness in code.page_number: 1
+section_summary: The section from the PDF discusses the nature of pages in a document, contemplating whether the length and duration of pages can be compared in the same way as time. It explores the philosophical idea of length in relation to a fixed size, questioning if one page can be considered longer than another when they are identical. 
+
+///////////////////////////////////////// PdfFileReading ////////////////////////////////////////////////////
+
+The latter part of the text includes a segment of "Lorem ipsum," a standard placeholder text used in publishing and web design. It emphasizes themes of structure and form, mentioning various aspects of design, such as layout and typography. 
+
+Key Topics:
+- Philosophy of length and duration in documents
+- Comparison of page sizes
+- Use of placeholder text ("Lorem ipsum") in design
+
+Entities:
+- PDF (Portable Document Format)
+- Pages (as a concept in documentation and design)
+next_section_summary: The section appears to be a text excerpt from a PDF document, focusing on various themes related to life, well-being, and personal growth. Here are the key topics and entities identified:
+
+1. **Emotional and Physical Well-Being**: The text discusses concepts related to personal growth, emotional well-being, and the importance of a good environment.
+
+2. **Lifestyle and Habits**: It touches on living habits and attitudes, emphasizing the significance of a positive mindset and the role of daily practices.
+
+3. **Social Interaction**: The excerpt indicates the importance of social connections and relationships in enhancing life quality.
+
+4. **Personal Development**: There are references to self-improvement and striving for a better version of oneself through various means.
+
+5. **Nature and Environment**: The text alludes to the natural world and its influence on personal health and happiness.
+
+Overall, the content conveys a message about finding balance in life through personal habits, social connections, and a positive environment.
+file_name: sample_local_pdf.pdf
+
+Sample                               PDF                                                                                                                               
+
+                                            Created           for    testing         PDFObject                                                                                                                        
+
+         This     PDF       is   three      pages       long.     Three       long      pages.       Or    three      short      pages       if                                                                       
+         you’re      optimistic.          Is  it  the     same       as   saying       “three       long     minutes”,          knowing                                                                               
+         that    all   minutes         are    the    same       duration,         and     one    cannot        possibly        be   longer                                                                            
+         than      the    other?       If  these      pages       are     all   the    same       size,    can     one     possibly        be                                                                         
+         longer      than      the    other?                                                                                                                                                                          
+
+         I digress.   Here’s    some    Latin.   Lorem     ipsum     dolor   sit amet,    consectetur     adipiscing      elit. Integer    nec                                                                        
+         odio.  Praesent     libero.   Sed   cursus    ante   dapibus     diam.   Sed   nisi.  Nulla    quis   sem   at  nibh   elementum                                                                             
+         imperdiet.     Duis   sagittis   ipsum.    Praesent     mauris.     Fusce   nec   tellus  sed   augue    semper     porta.   Mauris                                                                          
+         massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per                                                                                                               
+         conubia    nostra,    per  inceptos    himenaeos.       Curabitur      sodales    ligula  in  libero.                                                                                                        
+
+         Sed  dignissim      lacinia   nunc.   Curabitur      tortor.  Pellentesque       nibh.   Aenean     quam.    In  scelerisque     sem                                                                         
+         at dolor.   Maecenas       mattis.   Sed   convallis     tristique   sem.    Proin   ut  ligula   vel  nunc    egestas    porttitor.                                                                         
+         Morbi    lectus   risus,  iaculis   vel,  suscipit   quis,   luctus   non,   massa.     Fusce    ac turpis    quis  ligula   lacinia                                                                         
+         aliquet.   Mauris     ipsum.    Nulla    metus    metus,    ullamcorper       vel,  tincidunt    sed,  euismod      in, nibh.                                                                                
+
+         Quisque     volutpat     condimentum         velit.  Class   aptent    taciti   sociosqu    ad   litora  torquent     per   conubia                                                                          
+         nostra,   per  inceptos    himenaeos.      Nam     nec  ante.   Sed   lacinia,  urna    non   tincidunt    mattis,    tortor  neque                                                                          
+         adipiscing     diam,   a  cursus    ipsum    ante   quis   turpis.   Nulla    facilisi. Ut   fringilla.   Suspendisse       potenti.                                                                         
+         Nunc    feugiat   mi   a tellus   consequat      imperdiet.     Vestibulum       sapien.   Proin    quam.    Etiam     ultrices.                                                                             
+
+         Suspendisse       in  justo  eu   magna     luctus    suscipit.   Sed    lectus.   Integer    euismod     lacus    luctus   magna.prev_section_summary: The section from the PDF discusses the nature of pages in a document, contemplating whether the length and duration of pages can be compared in the same way as time. It explores the philosophical idea of length in relation to a fixed size, questioning if one page can be considered longer than another when they are identical. 
+
+The latter part of the text includes a segment of "Lorem ipsum," a standard placeholder text used in publishing and web design. It emphasizes themes of structure and form, mentioning various aspects of design, such as layout and typography. 
+
+Key Topics:
+- Philosophy of length and duration in documents
+- Comparison of page sizes
+- Use of placeholder text ("Lorem ipsum") in design
+
+Entities:
+- PDF (Portable Document Format)
+- Pages (as a concept in documentation and design)
+page_number: 1
+section_summary: The section appears to be a text excerpt from a PDF document, focusing on various themes related to life, well-being, and personal growth. Here are the key topics and entities identified:
+
+1. **Emotional and Physical Well-Being**: The text discusses concepts related to personal growth, emotional well-being, and the importance of a good environment.
+
+2. **Lifestyle and Habits**: It touches on living habits and attitudes, emphasizing the significance of a positive mindset and the role of daily practices.
+
+3. **Social Interaction**: The excerpt indicates the importance of social connections and relationships in enhancing life quality.
+
+4. **Personal Development**: There are references to self-improvement and striving for a better version of oneself through various means.
+
+5. **Nature and Environment**: The text alludes to the natural world and its influence on personal health and happiness.
+
+Overall, the content conveys a message about finding balance in life through personal habits, social connections, and a positive environment.
+next_section_summary: The section contains a passage of text that appears to be a variation of "Lorem Ipsum," a commonly used placeholder text in the publishing and graphic design industries. The content focuses on various themes related to life, such as:
+
+1. **Existence and Experience**: The text emphasizes the journey of life and experiences one undergoes, often referencing emotions and states of being.
+2. **Nature and Environment**: Mentions of natural elements like "tellus" (earth) and "augue" (water) suggest a connection to the environment and the natural world.
+3. **Human Interaction**: Phrases such as "socius" (companion) and references to social structures imply themes of companionship and societal dynamics.
+
+Key entities and concepts include:
+- **Life Experiences**: Discussion of various life states, challenges, and emotions.
+- **Nature**: The natural world and its connection to human experiences.
+- **Social Relationships**: The importance of companionship and social interaction.
+
+Overall, the passage serves as a stylistic representation of text without specific meaning, typically used as a filler in design layouts.
+file_name: sample_local_pdf.pdf
+
+Quisque     cursus,    metus    vitae   pharetra      auctor,   sem    massa     mattis   sem,    at  interdum      magna     augue                                                                          
+         eget  diam.    Vestibulum       ante   ipsum    primis    in faucibus     orci  luctus   et ultrices    posuere    cubilia   Curae;                                                                          
+         Morbi    lacinia   molestie    dui.  Praesent     blandit    dolor.   Sed  non   quam.     In  vel mi   sit amet    augue    congue                                                                          
+         elementum.       Morbi    in  ipsum    sit amet    pede    facilisis  laoreet.   Donec     lacus   nunc,   viverra    nec,   blandit                                                                         
+         vel, egestas    et, augue.    Vestibulum       tincidunt    malesuada       tellus.   Ut  ultrices   ultrices   enim.    Curabitur                                                                           
+         sit amet    mauris.                                                                                                                                                                                          
+
+         Morbi    in dui   quis  est  pulvinar     ullamcorper.      Nulla    facilisi.  Integer    lacinia   sollicitudin     massa.    Cras                                                                         
+         metus.    Sed  aliquet    risus  a  tortor.  Integer    id quam.    Morbi    mi.  Quisque      nisl felis,  venenatis     tristique,                                                                         
+         dignissim     in, ultrices   sit  amet,   augue.    Proin    sodales    libero  eget   ante.   Nulla   quam.     Aenean     laoreet.                                                                         
+         Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan                                                                                                                
+         porttitor,   cursus    quis,  aliquet    eget,  justo.   Sed   pretium     blandit    orci.                                                                                                                  
+
+         Ut  eu  diam    at  pede    suscipit   sodales.    Aenean      lectus   elit, fermentum        non,   convallis    id,  sagittis   at,                                                                       
+         neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus                                                                                                            
+         aliquam     imperdiet.     Maecenas       aliquet    mollis   lectus.   Vivamus       consectetuer      risus   et  tortor.   Lorem                                                                          
+
+         	                                                                 1prev_section_summary: The section appears to be a text excerpt from a PDF document, focusing on various themes related to life, well-being, and personal growth. Here are the key topics and entities identified:
+
+1. **Emotional and Physical Well-Being**: The text discusses concepts related to personal growth, emotional well-being, and the importance of a good environment.
+
+2. **Lifestyle and Habits**: It touches on living habits and attitudes, emphasizing the significance of a positive mindset and the role of daily practices.
+
+3. **Social Interaction**: The excerpt indicates the importance of social connections and relationships in enhancing life quality.
+
+4. **Personal Development**: There are references to self-improvement and striving for a better version of oneself through various means.
+
+5. **Nature and Environment**: The text alludes to the natural world and its influence on personal health and happiness.
+
+Overall, the content conveys a message about finding balance in life through personal habits, social connections, and a positive environment.
+page_number: 2
+section_summary: The section contains a passage of text that appears to be a variation of "Lorem Ipsum," a commonly used placeholder text in the publishing and graphic design industries. The content focuses on various themes related to life, such as:
+
+1. **Existence and Experience**: The text emphasizes the journey of life and experiences one undergoes, often referencing emotions and states of being.
+2. **Nature and Environment**: Mentions of natural elements like "tellus" (earth) and "augue" (water) suggest a connection to the environment and the natural world.
+3. **Human Interaction**: Phrases such as "socius" (companion) and references to social structures imply themes of companionship and societal dynamics.
+
+Key entities and concepts include:
+- **Life Experiences**: Discussion of various life states, challenges, and emotions.
+- **Nature**: The natural world and its connection to human experiences.
+- **Social Relationships**: The importance of companionship and social interaction.
+
+Overall, the passage serves as a stylistic representation of text without specific meaning, typically used as a filler in design layouts.
+next_section_summary: The section primarily discusses various aspects of life and well-being, focusing on themes of comfort, resilience, and the human experience. Key topics include:
+
+1. **Personal Well-being**: Emphasizes the importance of maintaining a positive mindset and embracing life's challenges (e.g., "Curabitur sit amet mauris," "Nulla facilisi").
+2. **Social Connections**: References the significance of relationships and community support (e.g., "Class aptent taciti sociosqu ad litora torquent per conubia nostra").
+3. **Resilience and Adaptability**: Highlights the ability to navigate difficulties and the importance of perseverance (e.g., "Morbi in dui quis est pulvinar ullamcorper").
+4. **Daily Life and Routine**: Touches on the mundane aspects of life and how they contribute to overall wellness (e.g., mentions of "mauris," "nibh," and "tortor").
+5. **Emotional and Mental Health**: Implies the need for emotional balance and mental clarity (e.g., "Suspendisse in justo eu magna luctus suscipit").
+
+Overall, the text conveys a message of resilience, adaptability, and the significance of social bonds in achieving a fulfilling life.
+file_name: sample_local_pdf.pdf
+
+ipsum    dolor   sit amet,   consectetur      adipiscing     elit. Integer    nec  odio.  Praesent     libero.   Sed   cursus   ante                                                                         
+         dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.                                                                                                                     
+         Praesent     mauris.                                                                                                                                                                                         
+
+         Fusce   nec   tellus  sed   augue    semper     porta.   Mauris    massa.     Vestibulum       lacinia   arcu   eget  nulla.   Class                                                                         
+         aptent    taciti  sociosqu     ad  litora   torquent     per   conubia     nostra,    per  inceptos     himenaeos.       Curabitur                                                                           
+         sodales    ligula   in libero.   Sed   dignissim      lacinia   nunc.   Curabitur      tortor.   Pellentesque       nibh.   Aenean                                                                           
+         quam.    In  scelerisque     sem   at  dolor.   Maecenas      mattis.    Sed   convallis    tristique    sem.                                                                                                
+
+         Proin   ut  ligula   vel  nunc   egestas    porttitor.    Morbi    lectus   risus,  iaculis   vel,  suscipit    quis,  luctus    non,                                                                        
+         massa.    Fusce    ac  turpis   quis  ligula   lacinia   aliquet.    Mauris    ipsum.     Nulla   metus     metus,    ullamcorper                                                                            
+         vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti                                                                                                                
+         sociosqu    ad  litora  torquent     per  conubia     nostra,   per  inceptos     himenaeos.      Nam    nec   ante.   Sed  lacinia,                                                                         
+         urna   non   tincidunt     mattis,    tortor   neque    adipiscing     diam,    a  cursus    ipsum    ante    quis  turpis.    Nulla                                                                         
+         facilisi. Ut   fringilla.   Suspendisse       potenti.                                                                                                                                                       
+
+         Nunc    feugiat    mi   a  tellus   consequat      imperdiet.     Vestibulum        sapien.    Proin    quam.    Etiam     ultrices.                                                                         
+         Suspendisse       in  justo  eu   magna     luctus    suscipit.   Sed    lectus.   Integer    euismod     lacus    luctus   magna.                                                                           
+         Quisque     cursus,    metus    vitae   pharetra      auctor,   sem    massa     mattis   sem,    at  interdum      magna     augue                                                                          
+         eget  diam.    Vestibulum       ante   ipsum    primis    in faucibus     orci  luctus   et ultrices    posuere    cubilia   Curae;                                                                          
+         Morbi    lacinia   molestie    dui.  Praesent     blandit    dolor.   Sed  non   quam.     In  vel mi   sit amet    augue    congue                                                                          
+         elementum.       Morbi    in  ipsum    sit amet    pede   facilisis   laoreet.                                                                                                                               
+
+         Donec    lacus    nunc,   viverra     nec,  blandit    vel,   egestas    et,  augue.    Vestibulum       tincidunt     malesuadaprev_section_summary: The section contains a passage of text that appears to be a variation of "Lorem Ipsum," a commonly used placeholder text in the publishing and graphic design industries. The content focuses on various themes related to life, such as:
+
+1. **Existence and Experience**: The text emphasizes the journey of life and experiences one undergoes, often referencing emotions and states of being.
+2. **Nature and Environment**: Mentions of natural elements like "tellus" (earth) and "augue" (water) suggest a connection to the environment and the natural world.
+3. **Human Interaction**: Phrases such as "socius" (companion) and references to social structures imply themes of companionship and societal dynamics.
+
+Key entities and concepts include:
+- **Life Experiences**: Discussion of various life states, challenges, and emotions.
+- **Nature**: The natural world and its connection to human experiences.
+- **Social Relationships**: The importance of companionship and social interaction.
+
+Overall, the passage serves as a stylistic representation of text without specific meaning, typically used as a filler in design layouts.
+page_number: 2
+section_summary: The section primarily discusses various aspects of life and well-being, focusing on themes of comfort, resilience, and the human experience. Key topics include:
+
+1. **Personal Well-being**: Emphasizes the importance of maintaining a positive mindset and embracing life's challenges (e.g., "Curabitur sit amet mauris," "Nulla facilisi").
+2. **Social Connections**: References the significance of relationships and community support (e.g., "Class aptent taciti sociosqu ad litora torquent per conubia nostra").
+3. **Resilience and Adaptability**: Highlights the ability to navigate difficulties and the importance of perseverance (e.g., "Morbi in dui quis est pulvinar ullamcorper").
+4. **Daily Life and Routine**: Touches on the mundane aspects of life and how they contribute to overall wellness (e.g., mentions of "mauris," "nibh," and "tortor").
+5. **Emotional and Mental Health**: Implies the need for emotional balance and mental clarity (e.g., "Suspendisse in justo eu magna luctus suscipit").
+
+Overall, the text conveys a message of resilience, adaptability, and the significance of social bonds in achieving a fulfilling life.
+next_section_summary: The section discusses various aspects of human experiences and emotions, mentioning themes such as:
+
+1. **Personal Development and Well-being**: The text emphasizes the importance of personal growth, self-acceptance, and managing one's emotions through phrases like "facilisis laoreet" and "pulvinar ullamcorper."
+
+2. **Social Interaction**: It touches on social relationships and communication, suggesting the significance of interaction and support from others, as indicated by phrases like "facilisis ac" and "commodo ac."
+
+3. **Physical and Mental Health**: There are references to maintaining physical health (e.g., "viverra nec," "sodales") and mental well-being, highlighting the interconnectedness of body and mind.
+
+4. **Life Philosophy**: Concepts related to living a fulfilling life, such as "integer nec odio" and "lacinia nunc," suggest a focus on positive living and resilient attitudes.
+
+5. **Literary and Rhetorical Elements**: The text employs a rich vocabulary and varied sentence structure that suggests a literary or philosophical exploration of these themes.
+
+Overall, the section encapsulates ideas of self-improvement, the importance of community, and the pursuit of a balanced life, framed in a somewhat poetic and reflective manner.
+file_name: sample_local_pdf.pdf
+
+tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar                                                                                                                 
+         ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a                                                                                                             
+         tortor.  Integer    id  quam.    Morbi    mi.                                                                                                                                                                
+
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed                                                                                                              
+         cursus    ante   dapibus     diam.    Sed   nisi.  Nulla    quis   sem   at  nibh    elementum       imperdiet.      Duis   sagittis                                                                         
+         ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum                                                                                                                    
+         lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per                                                                                                             
+         inceptos    himenaeos.      Curabitur      sodales    ligula   in libero.                                                                                                                                    
+
+         Sed  dignissim      lacinia   nunc.   Curabitur      tortor.  Pellentesque       nibh.   Aenean     quam.    In  scelerisque     sem                                                                         
+         at dolor.   Maecenas       mattis.   Sed   convallis     tristique   sem.    Proin   ut  ligula   vel  nunc    egestas    porttitor.                                                                         
+         Morbi    lectus   risus,  iaculis   vel,  suscipit   quis,   luctus   non,   massa.     Fusce    ac turpis    quis  ligula   lacinia                                                                         
+         aliquet.   Mauris     ipsum.    Nulla    metus    metus,    ullamcorper       vel,  tincidunt    sed,  euismod      in, nibh.                                                                                
+
+         Quisque     volutpat     condimentum         velit.  Class   aptent    taciti   sociosqu    ad   litora  torquent     per   conubia                                                                          
+         nostra,   per  inceptos    himenaeos.      Nam     nec  ante.   Sed   lacinia,  urna    non   tincidunt    mattis,    tortor  neque                                                                          
+         adipiscing     diam,   a  cursus    ipsum    ante   quis   turpis.   Nulla    facilisi. Ut   fringilla.   Suspendisse       potenti.                                                                         
+         Nunc    feugiat   mi   a tellus   consequat      imperdiet.     Vestibulum       sapien.   Proin    quam.    Etiam     ultrices.                                                                             
+
+         Suspendisse       in  justo  eu   magna     luctus    suscipit.   Sed    lectus.   Integer    euismod     lacus    luctus   magna.                                                                           
+         Quisque     cursus,    metus    vitae   pharetra      auctor,   sem    massa     mattis   sem,    at  interdum      magna     augue                                                                          
+         eget  diam.    Vestibulum       ante   ipsum    primis    in faucibus     orci  luctus   et ultrices    posuere    cubilia   Curae;                                                                          
+         Morbi    lacinia   molestie    dui.  Praesent     blandit    dolor.   Sed  non   quam.     In  vel mi   sit amet    augue    congueprev_section_summary: The section primarily discusses various aspects of life and well-being, focusing on themes of comfort, resilience, and the human experience. Key topics include:
+
+1. **Personal Well-being**: Emphasizes the importance of maintaining a positive mindset and embracing life's challenges (e.g., "Curabitur sit amet mauris," "Nulla facilisi").
+2. **Social Connections**: References the significance of relationships and community support (e.g., "Class aptent taciti sociosqu ad litora torquent per conubia nostra").
+3. **Resilience and Adaptability**: Highlights the ability to navigate difficulties and the importance of perseverance (e.g., "Morbi in dui quis est pulvinar ullamcorper").
+4. **Daily Life and Routine**: Touches on the mundane aspects of life and how they contribute to overall wellness (e.g., mentions of "mauris," "nibh," and "tortor").
+5. **Emotional and Mental Health**: Implies the need for emotional balance and mental clarity (e.g., "Suspendisse in justo eu magna luctus suscipit").
+
+Overall, the text conveys a message of resilience, adaptability, and the significance of social bonds in achieving a fulfilling life.
+page_number: 3
+section_summary: The section discusses various aspects of human experiences and emotions, mentioning themes such as:
+
+1. **Personal Development and Well-being**: The text emphasizes the importance of personal growth, self-acceptance, and managing one's emotions through phrases like "facilisis laoreet" and "pulvinar ullamcorper."
+
+2. **Social Interaction**: It touches on social relationships and communication, suggesting the significance of interaction and support from others, as indicated by phrases like "facilisis ac" and "commodo ac."
+
+3. **Physical and Mental Health**: There are references to maintaining physical health (e.g., "viverra nec," "sodales") and mental well-being, highlighting the interconnectedness of body and mind.
+
+4. **Life Philosophy**: Concepts related to living a fulfilling life, such as "integer nec odio" and "lacinia nunc," suggest a focus on positive living and resilient attitudes.
+
+5. **Literary and Rhetorical Elements**: The text employs a rich vocabulary and varied sentence structure that suggests a literary or philosophical exploration of these themes.
+
+Overall, the section encapsulates ideas of self-improvement, the importance of community, and the pursuit of a balanced life, framed in a somewhat poetic and reflective manner.
+next_section_summary: The section appears to be an excerpt from a PDF document, likely focusing on topics related to literature or writing, given the references to stylistic elements of prose. Key themes include:
+
+1. **Writing Style**: The text discusses various aspects of writing, such as the importance of rhythm and flow ("Quisque volutpat condimentum velit") and the structure of sentences.
+   
+2. **Literary Devices**: Mentions of phrases like "class aptent taciti" indicate the use of classical references and literary devices, suggesting a reflective or academic tone.
+
+3. **Human Experience**: There are references to emotions and experiences ("Nam nec ante."), which may suggest themes of personal growth or the human condition.
+
+4. **Structure and Composition**: The text emphasizes the organization of thoughts and ideas ("Vestibulum ante ipsum primis in faucibus"), highlighting the significance of coherent structure in writing.
+
+5. **Engagement and Interaction**: Phrases like "Suspendisse in justo" imply a focus on interaction, perhaps discussing reader engagement or the relationship between the writer and the audience.
+
+Overall, the section seems to address the nuances of effective writing and the interplay between style and substance in literary works.
+file_name: sample_local_pdf.pdf
+
+elementum.       Morbi    in  ipsum    sit amet    pede    facilisis  laoreet.   Donec     lacus   nunc,   viverra    nec,   blandit                                                                         
+         vel, egestas    et, augue.    Vestibulum       tincidunt    malesuada       tellus.   Ut  ultrices   ultrices   enim.    Curabitur                                                                           
+         sit amet    mauris.                                                                                                                                                                                          
+
+         Morbi    in dui   quis  est  pulvinar     ullamcorper.      Nulla    facilisi.  Integer    lacinia   sollicitudin     massa.    Cras                                                                         
+         metus.    Sed  aliquet    risus  a  tortor.  Integer    id quam.    Morbi    mi.  Quisque      nisl felis,  venenatis     tristique,                                                                         
+         dignissim     in, ultrices   sit  amet,   augue.    Proin    sodales    libero  eget   ante.   Nulla   quam.     Aenean     laoreet.                                                                         
+         Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan                                                                                                                
+         porttitor,   cursus    quis,  aliquet    eget,  justo.   Sed   pretium     blandit    orci.                                                                                                                  
+
+         Ut  eu  diam    at  pede    suscipit   sodales.    Aenean      lectus   elit, fermentum        non,   convallis    id,  sagittis   at,                                                                       
+         neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus                                                                                                            
+         aliquam     imperdiet.     Maecenas       aliquet    mollis   lectus.   Vivamus       consectetuer      risus   et  tortor.   Lorem                                                                          
+         ipsum    dolor   sit amet,   consectetur      adipiscing     elit. Integer    nec  odio.  Praesent     libero.   Sed   cursus   ante                                                                         
+         dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.                                                                                                                     
+         Praesent     mauris.                                                                                                                                                                                         
+
+         Fusce   nec   tellus  sed   augue    semper     porta.   Mauris    massa.     Vestibulum       lacinia   arcu   eget  nulla.   Class                                                                         
+         aptent    taciti  sociosqu     ad  litora   torquent     per   conubia     nostra,    per  inceptos     himenaeos.       Curabitur                                                                           
+         sodales    ligula   in libero.   Sed   dignissim      lacinia   nunc.   Curabitur      tortor.   Pellentesque       nibh.   Aenean                                                                           
+         quam.    In  scelerisque     sem   at  dolor.   Maecenas      mattis.    Sed   convallis    tristique    sem.                                                                                                
+
+         Proin   ut  ligula   vel  nunc   egestas    porttitor.    Morbi    lectus   risus,  iaculis   vel,  suscipit    quis,  luctus    non,                                                                        
+         massa.    Fusce    ac  turpis   quis  ligula   lacinia   aliquet.    Mauris    ipsum.     Nulla   metus     metus,    ullamcorperprev_section_summary: The section discusses various aspects of human experiences and emotions, mentioning themes such as:
+
+1. **Personal Development and Well-being**: The text emphasizes the importance of personal growth, self-acceptance, and managing one's emotions through phrases like "facilisis laoreet" and "pulvinar ullamcorper."
+
+2. **Social Interaction**: It touches on social relationships and communication, suggesting the significance of interaction and support from others, as indicated by phrases like "facilisis ac" and "commodo ac."
+
+3. **Physical and Mental Health**: There are references to maintaining physical health (e.g., "viverra nec," "sodales") and mental well-being, highlighting the interconnectedness of body and mind.
+
+4. **Life Philosophy**: Concepts related to living a fulfilling life, such as "integer nec odio" and "lacinia nunc," suggest a focus on positive living and resilient attitudes.
+
+5. **Literary and Rhetorical Elements**: The text employs a rich vocabulary and varied sentence structure that suggests a literary or philosophical exploration of these themes.
+
+Overall, the section encapsulates ideas of self-improvement, the importance of community, and the pursuit of a balanced life, framed in a somewhat poetic and reflective manner.
+page_number: 3
+section_summary: The section appears to be an excerpt from a PDF document, likely focusing on topics related to literature or writing, given the references to stylistic elements of prose. Key themes include:
+
+1. **Writing Style**: The text discusses various aspects of writing, such as the importance of rhythm and flow ("Quisque volutpat condimentum velit") and the structure of sentences.
+   
+2. **Literary Devices**: Mentions of phrases like "class aptent taciti" indicate the use of classical references and literary devices, suggesting a reflective or academic tone.
+
+3. **Human Experience**: There are references to emotions and experiences ("Nam nec ante."), which may suggest themes of personal growth or the human condition.
+
+4. **Structure and Composition**: The text emphasizes the organization of thoughts and ideas ("Vestibulum ante ipsum primis in faucibus"), highlighting the significance of coherent structure in writing.
+
+5. **Engagement and Interaction**: Phrases like "Suspendisse in justo" imply a focus on interaction, perhaps discussing reader engagement or the relationship between the writer and the audience.
+
+Overall, the section seems to address the nuances of effective writing and the interplay between style and substance in literary works.
+file_name: sample_local_pdf.pdf
+
+vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti                                                                                                                
+         sociosqu    ad  litora  torquent     per  conubia     nostra,   per  inceptos     himenaeos.      Nam    nec   ante.   Sed  lacinia,                                                                         
+         urna   non   tincidunt     mattis,    tortor   neque    adipiscing     diam,    a  cursus    ipsum    ante    quis  turpis.    Nulla                                                                         
+         facilisi. Ut   fringilla.   Suspendisse       potenti.                                                                                                                                                       
+
+         Nunc    feugiat    mi   a  tellus   consequat      imperdiet.     Vestibulum        sapien.    Proin    quam.    Etiam     ultrices.                                                                         
+         Suspendisse       in  justo  eu   magna     luctus    suscipit.   Sed    lectus.   Integer    euismod     lacus    luctus   magna.                                                                           
+         Quisque     cursus,    metus    vitae   pharetra      auctor,   sem    massa     mattis   sem,    at  interdum      magna     augue                                                                          
+         eget  diam.    Vestibulum       ante   ipsum    primis    in faucibus     orci  luctus   et ultrices    posuere    cubilia   Curae;                                                                          
+         Morbi    lacinia   molestie    dui.  Praesent     blandit    dolor.   Sed  non   quam.     In  vel mi   sit amet    augue    congue                                                                          
+         elementum.       Morbi    in  ipsum    sit amet    pede   facilisis   laoreet.                                                                                                                               
+
+       ///////////////////////////////////////// JsonFileReading ////////////////////////////////////////////////////
+  	                                                                 3next_section_summary: The section contains the following key topics and entities:
+
+- Name: Rajesh
+- Gender: Male
+section_summary: The section contains basic personal information about an individual named Arun. The key topics include the person's name and gender, with "Arun" being the name and "Male" indicating the gender.
+
+name: arun
+gender: Maleprev_section_summary: The section contains basic personal information about an individual named Arun. The key topics include the person's name and gender, with "Arun" being the name and "Male" indicating the gender.
+next_section_summary: The section contains information about an individual named "Morthy," who is identified as male. The key topics include the person's name and gender.
+section_summary: The section contains the following key topics and entities:
+
+- Name: Rajesh
+- Gender: Male
+
+name: rajesh
+gender: Maleprev_section_summary: The section contains the following key topics and entities:
+
+- Name: Rajesh
+- Gender: Male
+next_section_summary: The section contains information about a person named Raja, identifying their gender as male. The key topics include the individual's name and gender. The main entity is "Raja."
+section_summary: The section contains information about an individual named "Morthy," who is identified as male. The key topics include the person's name and gender.
+
+name: morthy
+gender: Maleprev_section_summary: The section contains information about an individual named "Morthy," who is identified as male. The key topics include the person's name and gender.
+next_section_summary: The section contains information about an individual named Usha, identifying her gender as female. The key topics include the person's name and gender.
+section_summary: The section contains information about a person named Raja, identifying their gender as male. The key topics include the individual's name and gender. The main entity is "Raja."
+
+name: raja
+gender: Maleprev_section_summary: The section contains information about a person named Raja, identifying their gender as male. The key topics include the individual's name and gender. The main entity is "Raja."
+next_section_summary: The section contains information about an individual named Priya, specifically noting her name and gender, which is Female. The key topics include personal identification and gender classification. The primary entity mentioned is "Priya."
+section_summary: The section contains information about an individual named Usha, identifying her gender as female. The key topics include the person's name and gender.
+
+name: usha
+gender: Femaleprev_section_summary: The section contains information about an individual named Usha, identifying her gender as female. The key topics include the person's name and gender.
+next_section_summary: The section contains information about an individual named Sundar, who is identified as male. The key topics include personal identification and gender classification. The main entities are the name "Sundar" and the gender "Male."
+section_summary: The section contains information about an individual named Priya, specifically noting her name and gender, which is Female. The key topics include personal identification and gender classification. The primary entity mentioned is "Priya."
+
+name: priya
+gender: Femaleprev_section_summary: The section contains information about an individual named Priya, specifically noting her name and gender, which is Female. The key topics include personal identification and gender classification. The primary entity mentioned is "Priya."
+next_section_summary: The section includes the following key topics and entities:
+
+- Name: Kavitha
+- Gender: Female
+
+This indicates the identification of a person named Kavitha and specifies her gender as female.
+section_summary: The section contains information about an individual named Sundar, who is identified as male. The key topics include personal identification and gender classification. The main entities are the name "Sundar" and the gender "Male."
+
+name: Sundar
+gender: Maleprev_section_summary: The section contains information about an individual named Sundar, who is identified as male. The key topics include personal identification and gender classification. The main entities are the name "Sundar" and the gender "Male."
+next_section_summary: The section contains information about an individual named Dinesh, specifically noting his name and gender, which is male. Key topics include personal identification (name) and gender classification. The main entity is "Dinesh."
+section_summary: The section includes the following key topics and entities:
+
+- Name: Kavitha
+- Gender: Female
+
+This indicates the identification of a person named Kavitha and specifies her gender as female.
+
+name: Kavitha
+gender: Femaleprev_section_summary: The section includes the following key topics and entities:
+
+- Name: Kavitha
+- Gender: Female
+
+This indicates the identification of a person named Kavitha and specifies her gender as female.
+next_section_summary: The section provides basic personal information about an individual named Hema, indicating that she is female. The key topics include her name and gender. The primary entity mentioned is Hema.
+section_summary: The section contains information about an individual named Dinesh, specifically noting his name and gender, which is male. Key topics include personal identification (name) and gender classification. The main entity is "Dinesh."
+
+name: Dinesh
+gender: Maleprev_section_summary: The section contains information about an individual named Dinesh, specifically noting his name and gender, which is male. Key topics include personal identification (name) and gender classification. The main entity is "Dinesh."
+next_section_summary: The section contains information about an individual named Gowri, specifically noting her gender as female. Key topics include the name "Gowri" and the gender classification "Female."
+section_summary: The section provides basic personal information about an individual named Hema, indicating that she is female. The key topics include her name and gender. The primary entity mentioned is Hema.
+
+name: Hema
+gender: Femaleprev_section_summary: The section provides basic personal information about an individual named Hema, indicating that she is female. The key topics include her name and gender. The primary entity mentioned is Hema.
+next_section_summary: The key topics and entities of the section include:
+
+- **Name**: Ram
+- **Gender**: Male
+
+Overall, the section provides basic personal information about an individual named Ram, specifying his gender as male.
+section_summary: The section contains information about an individual named Gowri, specifically noting her gender as female. Key topics include the name "Gowri" and the gender classification "Female."
+
+name: Gowri
+gender: Femaleprev_section_summary: The section contains information about an individual named Gowri, specifically noting her gender as female. Key topics include the name "Gowri" and the gender classification "Female."
+next_section_summary: The section contains the following key topics and entities:
+
+- Name: Murugan
+- Gender: Male
+
+Overall, it provides basic personal information about an individual named Murugan, specifying his gender as male.
+section_summary: The key topics and entities of the section include:
+
+- **Name**: Ram
+- **Gender**: Male
+
+Overall, the section provides basic personal information about an individual named Ram, specifying his gender as male.
+
+name: Ram
+gender: Maleprev_section_summary: The key topics and entities of the section include:
+
+- **Name**: Ram
+- **Gender**: Male
+
+Overall, the section provides basic personal information about an individual named Ram, specifying his gender as male.
+next_section_summary: The section provides information about an individual named Jenifer, specifying her gender as female. The key topics include her name and gender identity.
+section_summary: The section contains the following key topics and entities:
+
+- Name: Murugan
+- Gender: Male
+
+Overall, it provides basic personal information about an individual named Murugan, specifying his gender as male.
+
+name: Murugan
+gender: Maleprev_section_summary: The section contains the following key topics and entities:
+
+- Name: Murugan
+- Gender: Male
+
+Overall, it provides basic personal information about an individual named Murugan, specifying his gender as male.
+section_summary: The section provides information about an individual named Jenifer, specifying her gender as female. The key topics include her name and gender identity.
+
+name: Jenifer
+gender: Female
+
+/////////////////////////////////////////JSON Pipeline///////////////////////////////////////////////////////////next_section_summary: The section contains information about an individual named Rajesh, specifying his gender as male. The key topics include personal identification (name) and gender. The main entity is Rajesh.
+section_summary: The section provides information about an individual named Arun, identifying him as male. The key topics include the person's name and gender. The primary entity mentioned is "Arun."
+
+name: arun
+gender: Maleprev_section_summary: The section provides information about an individual named Arun, identifying him as male. The key topics include the person's name and gender. The primary entity mentioned is "Arun."
+next_section_summary: The section contains information about an individual named Morthy, identifying him as a male. The key topics include the person's name and gender.
+section_summary: The section contains information about an individual named Rajesh, specifying his gender as male. The key topics include personal identification (name) and gender. The main entity is Rajesh.
+
+name: rajesh
+gender: Maleprev_section_summary: The section contains information about an individual named Rajesh, specifying his gender as male. The key topics include personal identification (name) and gender. The main entity is Rajesh.
+next_section_summary: The section provides basic information about an individual named "Raja." The key topics and entities include:
+
+- **Name**: Raja
+- **Gender**: Male
+section_summary: The section contains information about an individual named Morthy, identifying him as a male. The key topics include the person's name and gender.
+
+name: morthy
+gender: Maleprev_section_summary: The section contains information about an individual named Morthy, identifying him as a male. The key topics include the person's name and gender.
+next_section_summary: The section contains information about an individual named Usha, who is identified as female. The key topics include personal identification and gender. The main entity mentioned is Usha, a female individual.
+section_summary: The section provides basic information about an individual named "Raja." The key topics and entities include:
+
+- **Name**: Raja
+- **Gender**: Male
+
+name: raja
+gender: Maleprev_section_summary: The section provides basic information about an individual named "Raja." The key topics and entities include:
+
+- **Name**: Raja
+- **Gender**: Male
+next_section_summary: The section contains information about a person named Priya, who is identified as female. The key topics include the individual's name and gender.
+section_summary: The section contains information about an individual named Usha, who is identified as female. The key topics include personal identification and gender. The main entity mentioned is Usha, a female individual.
+
+name: usha
+gender: Femaleprev_section_summary: The section contains information about an individual named Usha, who is identified as female. The key topics include personal identification and gender. The main entity mentioned is Usha, a female individual.
+next_section_summary: The section provides basic information about an individual named Sundar, identifying his gender as male. The key topics include the person's name and gender. The main entity mentioned is Sundar.
+section_summary: The section contains information about a person named Priya, who is identified as female. The key topics include the individual's name and gender.
+
+name: priya
+gender: Femaleprev_section_summary: The section contains information about a person named Priya, who is identified as female. The key topics include the individual's name and gender.
+next_section_summary: The section contains information about an individual named Kavitha, who is identified as female. The key topics include the person's name and gender. There are no additional entities or details provided.
+section_summary: The section provides basic information about an individual named Sundar, identifying his gender as male. The key topics include the person's name and gender. The main entity mentioned is Sundar.
+
+name: Sundar
+gender: Maleprev_section_summary: The section provides basic information about an individual named Sundar, identifying his gender as male. The key topics include the person's name and gender. The main entity mentioned is Sundar.
+next_section_summary: The section provides information about an individual named Dinesh, specifying his name and gender as Male. The key topics and entities include:
+
+- Name: Dinesh
+- Gender: Male
+section_summary: The section contains information about an individual named Kavitha, who is identified as female. The key topics include the person's name and gender. There are no additional entities or details provided.
+
+name: Kavitha
+gender: Femaleprev_section_summary: The section contains information about an individual named Kavitha, who is identified as female. The key topics include the person's name and gender. There are no additional entities or details provided.
+next_section_summary: The section contains information about an individual named Hema, who is identified as female. The key topics include the person's name and gender.
+section_summary: The section provides information about an individual named Dinesh, specifying his name and gender as Male. The key topics and entities include:
+
+- Name: Dinesh
+- Gender: Male
+
+name: Dinesh
+gender: Maleprev_section_summary: The section provides information about an individual named Dinesh, specifying his name and gender as Male. The key topics and entities include:
+
+- Name: Dinesh
+- Gender: Male
+next_section_summary: The section contains information about an individual named Gowri, who is identified as female. The key topics include her name and gender. There are no additional entities or details provided.
+section_summary: The section contains information about an individual named Hema, who is identified as female. The key topics include the person's name and gender.
+
+name: Hema
+gender: Femaleprev_section_summary: The section contains information about an individual named Hema, who is identified as female. The key topics include the person's name and gender.
+next_section_summary: The section provides information about an individual named Ram, specifying that his gender is male. The key topics are the name and gender of the person. The entity mentioned is "Ram."
+section_summary: The section contains information about an individual named Gowri, who is identified as female. The key topics include her name and gender. There are no additional entities or details provided.
+
+name: Gowri
+gender: Femaleprev_section_summary: The section contains information about an individual named Gowri, who is identified as female. The key topics include her name and gender. There are no additional entities or details provided.
+next_section_summary: The section provides information about an individual named Murugan, specifying that the person's gender is male. Key topics include the name and gender of the individual.
+section_summary: The section provides information about an individual named Ram, specifying that his gender is male. The key topics are the name and gender of the person. The entity mentioned is "Ram."
+
+name: Ram
+gender: Maleprev_section_summary: The section provides information about an individual named Ram, specifying that his gender is male. The key topics are the name and gender of the person. The entity mentioned is "Ram."
+next_section_summary: The section provides basic information about an individual named Jenifer, identifying her gender as female. The key topics include the person's name and gender. There are no additional entities or topics present in the section.
+section_summary: The section provides information about an individual named Murugan, specifying that the person's gender is male. Key topics include the name and gender of the individual.
+
+name: Murugan
+gender: Maleprev_section_summary: The section provides information about an individual named Murugan, specifying that the person's gender is male. Key topics include the name and gender of the individual.
+section_summary: The section provides basic information about an individual named Jenifer, identifying her gender as female. The key topics include the person's name and gender. There are no additional entities or topics present in the section.
+
+name: Jenifer
+gender: Female
+
+/////////////////////////////////////////MD Pipeline///////////////////////////////////////////////////////////next_section_summary: The section contains information about an individual named Rajesh, specifying his gender as male. The key topics include personal identification (name) and gender. The main entity is Rajesh.
+context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+
+Here is an extended markdown file with a code block and additional content like lists, links, images, and text sections:context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+category: header_1
+title: Sample Java Code in Markdown
+
+This file contains a simple Java program followed by other content types in Markdown.context_str: Spring, AI, Document, DefaultContentFormatter, Java
+filename: sample_markdown_data.md
+category: code_block
+lang: java
+
+// Sample Java Program
+public class Calculator {
+    public int add(int a, int b) {
+        return a + b;
+    }
+
+    public int subtract(int a, int b) {
+        return a - b;
+    }
+
+    public static void main(String[] args) {
+        Calculator calc = new Calculator();
+        System.out.println("Addition: " + calc.add(5, 3));
+        System.out.println("Subtraction: " + calc.subtract(5, 3));
+    }
+}
+context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+category: header_2
+title: Key Features of Java
+
+Java is a powerful programming language with many key features: Platform Independence: Java code can be run on any device that supports the JVM. Object-Oriented: It allows for a modular approach, making it easier to maintain and reuse code. Robust: It has strong memory management and built-in error handling.context_str: Spring, AI, Document, Content, Formatter
+filename: sample_markdown_data.md
+category: header_3
+title: Prerequisites
+
+Java Development Kit (JDK) version 11 or higher. An IDE like IntelliJ IDEA or Eclipse.context_str: Spring, AI, Document, Content, Formatter
+filename: sample_markdown_data.md
+category: code_inline
+title: Steps to Install
+
+Download the JDK from the official Oracle website. Install the JDK on your machine. Set up your JAVA_HOME environment variable.After installing, verify the installation by running:context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+category: code_block
+lang: bash
+
+java -version
+context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+category: header_2
+title: Useful Java Libraries
+
+Here are some useful libraries that are frequently used in Java projects: Spring Framework: Used for building enterprise-level applications. Hibernate: An ORM framework for database operations. JUnit: A framework for writing unit tests in Java.context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+category: header_2
+title: Sample Image
+
+You can add images to your markdown for more clarity. Below is an example of how to embed an image:context_str: Spring, AI, Document, Content, Formatter
+filename: sample_markdown_data.md
+category: code_block
+lang: md
+
+![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+
+Java Logocontext_str: Spring, AI, Document, Content, Formatter
+filename: sample_markdown_data.md
+category: header_2
+title: Additional Resources
+
+To learn more about Java, check out the following resources: Official Java Documentation Java Tutorials on Udemy Stack Overflow Java Communitycontext_str: Spring, AI, Document, Content, Formatter
+filename: sample_markdown_data.md
+category: code_inline
+title: Running the Code
+
+To run the code in the above block, follow these steps: Copy the code into a file named Calculator.java. Compile the file:context_str: Spring, AI, Document, Content Formatter, Default
+filename: sample_markdown_data.md
+category: code_block
+lang: bash
+
+javac Calculator.java
+context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+
+Run the compiled code:context_str: Spring, AI, Document, Formatter, Default
+filename: sample_markdown_data.md
+category: code_block
+lang: bash
+
+java Calculator
+context_str: Spring, AI, Document, Content Formatter, Default
+filename: sample_markdown_data.md
+
+This Markdown file includes a variety of content elements along with the Java code block, showcasing how Markdown can be used for documentation.

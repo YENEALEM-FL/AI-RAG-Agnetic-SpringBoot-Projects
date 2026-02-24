@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-server-basic-demo": {
+      "command": "/Users/yenealemsettegne/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/bin/java",
+      "args": [
+              "-jar",
+              "/Users/yenealemsettegne/Projects/spring-ai-mcp-server-using-claude/target/spring-ai-mcp-server-using-claude-0.0.1-SNAPSHOT.jar"
+            ]
+    }
+  }
+}
+

@@ -1,0 +1,9 @@
+Leo was known as the “Bug Whisperer” in his team.
+Whenever code misbehaved, everyone called him.
+But Leo wasn’t just good at programming—he listened first, thought deeply, then typed quietly like he was talking politely to the machine.
+One day, a system crashed right before launch.
+Panic filled the room.
+While others frantically clicked and rebooted, Leo calmly read logs, traced the issue, and fixed a tiny missing semicolon that caused chaos.
+Cheers erupted. He smiled shyly and said,
+“Good code is like good magic—quiet and precise.”
+From that day, Leo became the mentor who taught others patience, clarity, and kindness in code.

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-server-basic-demo": {
+      "command": "/Library/Java/JavaVirtualMachines/graalvm-21.jdk/Contents/Home/bin/java",
+      "args": [
+        "-jar",
+        "/Users/yenealemsettegne/Downloads/flightbooking_mcp_backend_server/target/flightbooking_mcp_backend_server-0.0.1-SNAPSHOT.jar"
+
+      ]
+    }
+  }
+}
